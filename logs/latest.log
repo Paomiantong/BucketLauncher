@@ -1,0 +1,9 @@
+[16:58:49] [Client thread/ERROR]: Can't find the resource index file: G:\Luncher_Python_C++\.minecraft\assets\indexes\1.8.json
+[16:58:50] [Client thread/INFO]: Setting user: test
+[16:58:50] [Client thread/INFO]: (Session ID is token:72659e24bfdf4df187eaf9d80b8cbca5:72659e24bfdf4df187eaf9d80b8cbca5)
+[16:59:19] [Client thread/INFO]: LWJGL Version: 2.9.4
+[16:59:29] [Client thread/INFO]: Reloading ResourceManager: Default
+[16:59:47] [Client thread/ERROR]: Can't find the resource index file: G:\Luncher_Python_C++\.minecraft\assets\indexes\1.8.json
+[16:59:49] [Client thread/INFO]: Setting user: test
+[16:59:49] [Client thread/INFO]: (Session ID is token:d9220d726da747e09bb1ddfb8992b444:d9220d726da747e09bb1ddfb8992b444)
+ry Loader/INFO]: Sound engine started

@@ -1,0 +1,657 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Q",
+				"QLabel"
+			],
+			[
+				"se",
+				"self"
+			],
+			[
+				"bg",
+				"bgm"
+			],
+			[
+				"re",
+				"read"
+			],
+			[
+				"f",
+				"from"
+			],
+			[
+				"te",
+				"text"
+			],
+			[
+				"cl",
+				"clicked"
+			],
+			[
+				"m",
+				"main\tmain()"
+			],
+			[
+				"sd",
+				"stdlib.h\tstandard header (deprecated)"
+			],
+			[
+				"io",
+				"iostream\tstandard header"
+			],
+			[
+				"set",
+				"setText"
+			],
+			[
+				"c",
+				"closebtn"
+			],
+			[
+				"we",
+				"QtWidgets"
+			],
+			[
+				"p",
+				"pack"
+			],
+			[
+				"na",
+				"natives"
+			],
+			[
+				"ar",
+				"args_gmdir"
+			],
+			[
+				"sf",
+				"self"
+			],
+			[
+				"bas",
+				"base_id"
+			],
+			[
+				"id",
+				"base_id"
+			],
+			[
+				"base",
+				"base_path"
+			],
+			[
+				"mainc",
+				"args_mainclass"
+			],
+			[
+				"amm",
+				"args_mxm"
+			],
+			[
+				"armm",
+				"args_mnm"
+			],
+			[
+				"us",
+				"args_username"
+			],
+			[
+				"da",
+				"data"
+			],
+			[
+				"uu",
+				"uuid"
+			],
+			[
+				"de",
+				"def\tFunction"
+			],
+			[
+				"uui",
+				"uuidcode"
+			],
+			[
+				"ur",
+				"args_usertype_info"
+			],
+			[
+				"agrs",
+				"args_paths"
+			],
+			[
+				"agr",
+				"args_asindex"
+			],
+			[
+				"var",
+				"var1"
+			],
+			[
+				"base_",
+				"base_lunargs"
+			],
+			[
+				"j",
+				"json"
+			],
+			[
+				"for",
+				"forge_inheritsFrom"
+			],
+			[
+				"fr",
+				"forge_inheritsFrom"
+			],
+			[
+				"ba",
+				"base_path"
+			],
+			[
+				"li",
+				"libraries"
+			],
+			[
+				"jo",
+				"json"
+			],
+			[
+				"d",
+				"data"
+			],
+			[
+				"nm",
+				"num_names"
+			],
+			[
+				"pl",
+				"platform"
+			],
+			[
+				"l",
+				"libs_natives"
+			],
+			[
+				"s",
+				"size"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/F/game/Urcraft/training.py",
+			"settings":
+			{
+				"buffer_size": 237,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "MainUI.pyw",
+			"settings":
+			{
+				"buffer_size": 2914,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/E/Myblog/_config.yml",
+			"settings":
+			{
+				"buffer_size": 2036,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/User/G++.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				],
+				[
+					"Packages/User/G++.sublime-build",
+					""
+				],
+				[
+					"Packages/User/G++.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/G++.sublime-build",
+					""
+				],
+				[
+					"Packages/User/G++.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/User/G++.sublime-build",
+				"Run"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"open",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"coev",
+				"ConvertToUTF8: Reload with Encoding"
+			],
+			[
+				"con",
+				"ConvertToUTF8: Reload with Encoding"
+			],
+			[
+				"pa",
+				"Package Control: List Packages"
+			],
+			[
+				"conven",
+				"ConvertToUTF8: Reload with Encoding"
+			],
+			[
+				"packeger",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/G/Luncher_Python_C++"
+	],
+	"file_history":
+	[
+		"/G/Luncher_Python_C++/ReadImg.py",
+		"/F/game/Minecraft1.11/training.py",
+		"/F/game/Minecraft1.11/mclauncher.py",
+		"/F/game/Minecraft1.11/MainUI.py",
+		"/F/game/枫叶红笺服务器 V1.0.4/training.py",
+		"/G/Luncher_Python_C++/training.py",
+		"/G/Luncher_Python_C++/MainUI.py",
+		"/G/Luncher_Python_C++/mclauncher.py",
+		"/G/Luncher_Python_C++/MainUI.qrc",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Default/exec.py",
+		"/G/math.cpp",
+		"/G/Luncher_Python_C++/mcluncher.py",
+		"/G/tmp.cpp",
+		"/G/Luncher_Python_C++/test.py",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/G++.sublime-build",
+		"/G/Luncher_Python_C++/rc_MainUI.py",
+		"/G/Luncher_Python_C++/Qrc2py.cmd",
+		"/G/Tk_trainning/Qt_test5.py",
+		"/G/Tk_trainning/Qt5.py",
+		"/G/Tk_trainning/Tk.py",
+		"/F/game/[1.7.10]科技时代丶[二周目]/mcluncher.py",
+		"/F/game/[1.7.10]科技时代丶[二周目]/training.py",
+		"/F/game/[1.7.10]科技时代丶[二周目]/.minecraft/versions/1.7.10-Forge10.13.4.1558-1.7.10/1.7.10-Forge10.13.4.1558-1.7.10.json",
+		"/F/game/[1.7.10]科技时代丶[二周目]/.minecraft/versions/1.7.10/1.7.10.json",
+		"/F/game/枫叶红笺服务器 V1.0.4/.minecraft/versions/枫叶红笺/枫叶红笺.json",
+		"/F/game/Minecraft1.11/mcluncher.py",
+		"/F/game/Minecraft1.11/.minecraft/versions/1.11/1.11.json",
+		"/F/game/枫叶红笺服务器 V1.0.4/mcluncher.py",
+		"/F/game/枫叶红笺服务器 V1.0.4/cmp.py",
+		"/F/game/枫叶红笺服务器 V1.0.4/tmp.cmd",
+		"/F/game/枫叶红笺服务器 V1.0.4/test.bat",
+		"/F/game/枫叶红笺服务器 V1.0.4/test.bat.dump",
+		"/F/game/枫叶红笺服务器 V1.0.4/tmp.bat.dump",
+		"/F/game/枫叶红笺服务器 V1.0.4/tmp.bat",
+		"/F/game/枫叶红笺服务器 V1.0.4/tmp.txt.dump",
+		"/F/game/枫叶红笺服务器 V1.0.4/tmp.txt",
+		"/G/Luncher_Python_C++/1.11.bat",
+		"/G/Luncher_Python_C++/1.7.10-forge.bat",
+		"/G/Luncher_Python_C++/1.7.10-forge-2.bat",
+		"/G/Luncher_Python_C++/1.7.10-forge.bat.dump",
+		"/G/Luncher_Python_C++/1.7.10-forge-2.bat.dump",
+		"/G/Luncher_Python_C++/versions/1.7.10/1.7.10.json",
+		"/G/Luncher_Python_C++/versions/1.7.10-Forge10.13.4.1558-1.7.10/1.7.10-Forge.json",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/ConvertToUTF8/ConvertToUTF8.sublime-settings",
+		"/F/game/Minecraft1.11/ink.bat",
+		"/G/查询.e",
+		"/G/Luncher_Python_C++/tmp.txt",
+		"/G/Luncher_Python_C++/versions/1.7.10-Forge10.13.4.1558-1.7.10/1.7.10-Forge10.13.4.1558-1.7.10.json",
+		"/G/Luncher_Python_C++/__pycache__/mcluncher.cpython-37.pyc",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Material Theme/Material-Theme.sublime-theme",
+		"/G/Luncher_Python_C++/Luncher.sublime-project",
+		"/C/Users/Administrator/Desktop/新建文本文档.txt",
+		"/D/360ISB/safemon/360Tray.exe"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"setPixmap",
+			"lun",
+			"if \"PATH\" in merged_env:\n    self.debug_text += \"[path: \" + str(merged_env[\"PATH\"]) + \"]\"",
+			"if \"PATH\" in merged_env:\n    self.debug_text += \"[path: \" + str(merged_env[\"PATH\"]) + \"]\"\nelse:\n    self.debug_text += \"[path: \" + str(os.environ[\"PATH\"]) + \"]\"",
+			"lun",
+			"c++",
+			"platform",
+			"D:\\Java8\\bin\\javaw.exe -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -XX:+UseG1GC -XX:-UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow -Xmn128m -Xmx512m \"-Djava.library.path=F:\\game\\·ãÒ¶ºì¼ã·þÎñÆ÷ V1.0.4\\.minecraft\\versions\\1.7.10\\1.7.10-natives\" -Dfml.ignoreInvalidMinecraftCertificates=true -Dfml.ignorePatchDiscrepancies=true -cp \"F:\\game\\·ãÒ¶ºì¼ã·þÎñÆ÷ V1.0.4\\.minecraft\\libraries\\com\\mojang\\netty\\1.6\\netty-1.6.jar;F:\\game\\·ãÒ¶ºì¼ã·þÎñÆ÷ V1.0.4\\.minecraft\\libraries\\com\\mojang\\realms\\1.3.5\\realms-1.3.5.jar;F:\\game\\·ãÒ¶ºì¼ã·þÎñÆ÷ V1.0.4\\.minecraft\\libraries\\org\\apache\\commons\\commons-compress\\1.8.1\\commons-compress-1.8.1.jar;F:\\game\\·ãÒ¶ºì¼ã·þÎñÆ÷ V1.0.4\\.minecraft\\libraries\\org\\apache\\httpcomponents\\httpclient\\4.3.3\\httpclient-4.3.3.jar;F:\\game\\·ãÒ¶ºì¼ã·þÎñÆ÷ V1.0.4\\.minecraft\\libraries\\commons-logging\\commons-logging\\1.1.3\\commons-logging-1.1.3.jar;F:\\game\\·ãÒ¶ºì¼ã·þÎñÆ÷ V1.0.4\\.minecraft\\libraries\\org\\apache\\httpcomponents\\httpcore\\4.3.2\\httpcore-4.3.2.jar;F:\\game\\·ãÒ¶ºì¼ã·þÎñÆ÷ V1.0.4\\.minecraft\\libraries\\java3d\\vecmath\\1.3.1\\vecmath-1.3.1.jar;F:\\game\\·ãÒ¶ºì¼ã·þÎñÆ÷ V1.0.4\\.minecraft\\libraries\\net\\sf\\trove4j\\trove4j\\3.0.3\\trove4j-3.0.3.jar;F:\\game\\·ãÒ¶ºì¼ã·þÎñÆ÷ V1.0.4\\.minecraft\\libraries\\com\\ibm\\icu\\icu4j-core-mojang\\51.2\\icu4j-core-mojang-51.2.jar;F:\\game\\·ãÒ¶ºì¼ã·þÎñÆ÷ V1.0.4\\.minecraft\\libraries\\net\\sf\\jopt-simple\\jopt-simple\\4.5\\jopt-simple-4.5.jar;F:\\game\\·ãÒ¶ºì¼ã·þÎñÆ÷ V1.0.4\\.minecraft\\libraries\\com\\paulscode\\codecjorbis\\20101023\\codecjorbis-20101023.jar;F:\\game\\·ãÒ¶ºì¼ã·þÎñÆ÷ V1.0.4\\.minecraft\\libraries\\com\\paulscode\\codecwav\\20101023\\codecwav-20101023.jar;F:\\game\\·ãÒ¶ºì¼ã·þÎñÆ÷ V1.0.4\\.minecraft\\libraries\\com\\paulscode\\libraryjavasound\\20101123\\libraryjavasound-20101123.jar;F:\\game\\·ãÒ¶ºì¼ã·þÎñÆ÷ V1.0.4\\.minecraft\\libraries\\com\\paulscode\\librarylwjglopenal\\20100824\\librarylwjglopenal-20100824.jar;F:\\game\\·ãÒ¶ºì¼ã·þÎñÆ÷ V1.0.4\\.minecraft\\libraries\\com\\paulscode\\soundsystem\\20120107\\soundsystem-20120107.jar;F:\\game\\·ãÒ¶ºì¼ã·þÎñÆ÷ V1.0.4\\.minecraft\\libraries\\io\\netty\\netty-all\\4.0.10.Final\\netty-all-4.0.10.Final.jar;F:\\game\\·ãÒ¶ºì¼ã·þÎñÆ÷ V1.0.4\\.minecraft\\libraries\\com\\google\\guava\\guava\\15.0\\guava-15.0.jar;F:\\game\\·ãÒ¶ºì¼ã·þÎñÆ÷ V1.0.4\\.minecraft\\libraries\\org\\apache\\commons\\commons-lang3\\3.1\\commons-lang3-3.1.jar;F:\\game\\·ãÒ¶ºì¼ã·þÎñÆ÷ V1.0.4\\.minecraft\\libraries\\commons-io\\commons-io\\2.4\\commons-io-2.4.jar;F:\\game\\·ãÒ¶ºì¼ã·þÎñÆ÷ V1.0.4\\.minecraft\\libraries\\commons-codec\\commons-codec\\1.9\\commons-codec-1.9.jar;F:\\game\\·ãÒ¶ºì¼ã·þÎñÆ÷ V1.0.4\\.minecraft\\libraries\\net\\java\\jinput\\jinput\\2.0.5\\jinput-2.0.5.jar;F:\\game\\·ãÒ¶ºì¼ã·þÎñÆ÷ V1.0.4\\.minecraft\\libraries\\net\\java\\jutils\\jutils\\1.0.0\\jutils-1.0.0.jar;F:\\game\\·ãÒ¶ºì¼ã·þÎñÆ÷ V1.0.4\\.minecraft\\libraries\\com\\google\\code\\gson\\gson\\2.2.4\\gson-2.2.4.jar;F:\\game\\·ãÒ¶ºì¼ã·þÎñÆ÷ V1.0.4\\.minecraft\\libraries\\com\\mojang\\authlib\\1.5.21\\authlib-1.5.21.jar;F:\\game\\·ãÒ¶ºì¼ã·þÎñÆ÷ V1.0.4\\.minecraft\\libraries\\org\\apache\\logging\\log4j\\log4j-api\\2.0-beta9\\log4j-api-2.0-beta9.jar;F:\\game\\·ãÒ¶ºì¼ã·þÎñÆ÷ V1.0.4\\.minecraft\\libraries\\org\\apache\\logging\\log4j\\log4j-core\\2.0-beta9\\log4j-core-2.0-beta9.jar;F:\\game\\·ãÒ¶ºì¼ã·þÎñÆ÷ V1.0.4\\.minecraft\\libraries\\org\\lwjgl\\lwjgl\\lwjgl\\2.9.1\\lwjgl-2.9.1.jar;F:\\game\\·ãÒ¶ºì¼ã·þÎñÆ÷ V1.0.4\\.minecraft\\libraries\\org\\lwjgl\\lwjgl\\lwjgl_util\\2.9.1\\lwjgl_util-2.9.1.jar;F:\\game\\·ãÒ¶ºì¼ã·þÎñÆ÷ V1.0.4\\.minecraft\\libraries\\tv\\twitch\\twitch\\5.16\\twitch-5.16.jar;F:\\game\\·ãÒ¶ºì¼ã·þÎñÆ÷ V1.0.4\\.minecraft\\versions\\1.7.10\\1.7.10.jar\" net.minecraft.client.main.Main --username test --version \"HMCL 2.7.6.25\" --gameDir \"F:\\game\\·ãÒ¶ºì¼ã·þÎñÆ÷ V1.0.4\\.minecraft\" --assetsDir \"F:\\game\\·ãÒ¶ºì¼ã·þÎñÆ÷ V1.0.4\\.minecraft\\assets\" --assetIndex 1.7.10 --uuid 098f6bcd4621d373cade4e832627b4f6 --accessToken 098f6bcd4621d373cade4e832627b4f6 --userProperties {} --userType Legacy --height 480 --width 854",
+			"D:\\Java8\\bin\\javaw.exe -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -XX:+UseG1GC -XX:-UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow -Xmn128m -Xmx512m \"-Djava.library.path=F:\\game\\枫叶红笺服务器 V1.0.4\\.minecraft\\versions\\1.7.10\\1.7.10-natives\" -Dfml.ignoreInvalidMinecraftCertificates=true -Dfml.ignorePatchDiscrepancies=true -cp \"F:\\game\\枫叶红笺服务器 V1.0.4\\.minecraft\\libraries\\com\\mojang\\netty\\1.6\\netty-1.6.jar;F:\\game\\枫叶红笺服务器 V1.0.4\\.minecraft\\libraries\\com\\mojang\\realms\\1.3.5\\realms-1.3.5.jar;F:\\game\\枫叶红笺服务器 V1.0.4\\.minecraft\\libraries\\org\\apache\\commons\\commons-compress\\1.8.1\\commons-compress-1.8.1.jar;F:\\game\\枫叶红笺服务器 V1.0.4\\.minecraft\\libraries\\org\\apache\\httpcomponents\\httpclient\\4.3.3\\httpclient-4.3.3.jar;F:\\game\\枫叶红笺服务器 V1.0.4\\.minecraft\\libraries\\commons-logging\\commons-logging\\1.1.3\\commons-logging-1.1.3.jar;F:\\game\\枫叶红笺服务器 V1.0.4\\.minecraft\\libraries\\org\\apache\\httpcomponents\\httpcore\\4.3.2\\httpcore-4.3.2.jar;F:\\game\\枫叶红笺服务器 V1.0.4\\.minecraft\\libraries\\java3d\\vecmath\\1.3.1\\vecmath-1.3.1.jar;F:\\game\\枫叶红笺服务器 V1.0.4\\.minecraft\\libraries\\net\\sf\\trove4j\\trove4j\\3.0.3\\trove4j-3.0.3.jar;F:\\game\\枫叶红笺服务器 V1.0.4\\.minecraft\\libraries\\com\\ibm\\icu\\icu4j-core-mojang\\51.2\\icu4j-core-mojang-51.2.jar;F:\\game\\枫叶红笺服务器 V1.0.4\\.minecraft\\libraries\\net\\sf\\jopt-simple\\jopt-simple\\4.5\\jopt-simple-4.5.jar;F:\\game\\枫叶红笺服务器 V1.0.4\\.minecraft\\libraries\\com\\paulscode\\codecjorbis\\20101023\\codecjorbis-20101023.jar;F:\\game\\枫叶红笺服务器 V1.0.4\\.minecraft\\libraries\\com\\paulscode\\codecwav\\20101023\\codecwav-20101023.jar;F:\\game\\枫叶红笺服务器 V1.0.4\\.minecraft\\libraries\\com\\paulscode\\libraryjavasound\\20101123\\libraryjavasound-20101123.jar;F:\\game\\枫叶红笺服务器 V1.0.4\\.minecraft\\libraries\\com\\paulscode\\librarylwjglopenal\\20100824\\librarylwjglopenal-20100824.jar;F:\\game\\枫叶红笺服务器 V1.0.4\\.minecraft\\libraries\\com\\paulscode\\soundsystem\\20120107\\soundsystem-20120107.jar;F:\\game\\枫叶红笺服务器 V1.0.4\\.minecraft\\libraries\\io\\netty\\netty-all\\4.0.10.Final\\netty-all-4.0.10.Final.jar;F:\\game\\枫叶红笺服务器 V1.0.4\\.minecraft\\libraries\\com\\google\\guava\\guava\\15.0\\guava-15.0.jar;F:\\game\\枫叶红笺服务器 V1.0.4\\.minecraft\\libraries\\org\\apache\\commons\\commons-lang3\\3.1\\commons-lang3-3.1.jar;F:\\game\\枫叶红笺服务器 V1.0.4\\.minecraft\\libraries\\commons-io\\commons-io\\2.4\\commons-io-2.4.jar;F:\\game\\枫叶红笺服务器 V1.0.4\\.minecraft\\libraries\\commons-codec\\commons-codec\\1.9\\commons-codec-1.9.jar;F:\\game\\枫叶红笺服务器 V1.0.4\\.minecraft\\libraries\\net\\java\\jinput\\jinput\\2.0.5\\jinput-2.0.5.jar;F:\\game\\枫叶红笺服务器 V1.0.4\\.minecraft\\libraries\\net\\java\\jutils\\jutils\\1.0.0\\jutils-1.0.0.jar;F:\\game\\枫叶红笺服务器 V1.0.4\\.minecraft\\libraries\\com\\google\\code\\gson\\gson\\2.2.4\\gson-2.2.4.jar;F:\\game\\枫叶红笺服务器 V1.0.4\\.minecraft\\libraries\\com\\mojang\\authlib\\1.5.21\\authlib-1.5.21.jar;F:\\game\\枫叶红笺服务器 V1.0.4\\.minecraft\\libraries\\org\\apache\\logging\\log4j\\log4j-api\\2.0-beta9\\log4j-api-2.0-beta9.jar;F:\\game\\枫叶红笺服务器 V1.0.4\\.minecraft\\libraries\\org\\apache\\logging\\log4j\\log4j-core\\2.0-beta9\\log4j-core-2.0-beta9.jar;F:\\game\\枫叶红笺服务器 V1.0.4\\.minecraft\\libraries\\org\\lwjgl\\lwjgl\\lwjgl\\2.9.1\\lwjgl-2.9.1.jar;F:\\game\\枫叶红笺服务器 V1.0.4\\.minecraft\\libraries\\org\\lwjgl\\lwjgl\\lwjgl_util\\2.9.1\\lwjgl_util-2.9.1.jar;F:\\game\\枫叶红笺服务器 V1.0.4\\.minecraft\\libraries\\tv\\twitch\\twitch\\5.16\\twitch-5.16.jar;F:\\game\\枫叶红笺服务器 V1.0.4\\.minecraft\\versions\\1.7.10\\1.7.10.jar\" net.minecraft.client.main.Main --username test --version \"HMCL 2.7.6.25\" --gameDir \"F:\\game\\枫叶红笺服务器 V1.0.4\\.minecraft\" --assetsDir \"F:\\game\\枫叶红笺服务器 V1.0.4\\.minecraft\\assets\" --assetIndex 1.7.10 --uuid 098f6bcd4621d373cade4e832627b4f6 --accessToken 098f6bcd4621d373cade4e832627b4f6 --userProperties {} --userType Legacy --height 480 --width 854",
+			"D:\\Java8\\bin\\javaw.exe -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -XX:+UseG1GC -XX:-UseAdaptiveSizePolicy ",
+			"D:\\Java8\\bin\\javaw.exe -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -XX:+UseG1GC -XX: -UseAdaptiveSizePolicy ",
+			"D:\\Java8\\bin\\javaw.exe -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -XX:+UseG1GC-XX: -UseAdaptiveSizePolicy ",
+			"D:\\Java8\\bin\\javaw.exe -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -XX:+UseG1GC-XX: -UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow",
+			"D:\\Java8\\bin\\javaw.exe -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -XX:+UseG1GC-XX: -UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow -Xmn128m -Xmm512m",
+			"D:\\Java8\\bin\\javaw.exe -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -XX:+UseG1GC-XX: -UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow -Xmn128m -Xmm512m ",
+			"D:\\Java8\\bin\\javaw.exe -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -XX:+UseG1GC-XX: -UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow -Xmn128m -Xmm512m \"-Djava.library.path=F:\\game\\枫叶红笺服务器 V1.0.4\\.minecraft\\versions\\1.7.10\\1.7.10-natives\" ",
+			"D:\\Java8\\bin\\javaw.exe -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -XX:+UseG1GC-XX: -UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow -Xmn128m -Xmm512m \"-Djava.library.path=F:\\game\\枫叶红笺服务器 V1.0.4\\.minecraft\\versions\\1.7.10\\1.7.10-natives\" -Dfml.ignoreInvalidMinecraftCertificates=true ",
+			"D:\\Java8\\bin\\javaw.exe -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -XX:+UseG1GC-XX: -UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow -Xmn128m -Xmm512m \"-Djava.library.path=F:\\game\\枫叶红笺服务器 V1.0.4\\.minecraft\\versions\\1.7.10\\1.7.10-natives\" -Dfml.ignoreInvalidMinecraftCertificates=true -Dfml.ignorePatchDiscrepancies=true",
+			"D:\\Java8\\bin\\javaw.exe -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -XX:+UseG1GC-XX: -UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow -Xmn128m -Xmm512m \"-Djava.library.path=F:\\game\\枫叶红笺服务器 V1.0.4\\.minecraft\\versions\\1.7.10\\1.7.10-natives\" -Dfml.ignoreInvalidMinecraftCertificates=true -Dfml.ignorePatchDiscrepancies=true ",
+			"D:\\Java8\\bin\\javaw.exe -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -XX:+UseG1GC-XX: -UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow -Xmn128m -Xmm512m \"-Djava.library.path=F:\\game\\枫叶红笺服务器 V1.0.4\\.minecraft\\versions\\1.7.10\\1.7.10-natives\" -Dfml.ignoreInvalidMinecraftCertificates=true -Dfml.ignorePatchDiscrepancies=true -cp ",
+			"D:\\Java8\\bin\\javaw.exe -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -XX:+UseG1GC-XX: -UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow -Xmn128m -Xmm512m \"-Djava.library.path=F:\\game\\枫叶红笺服务器 V1.0.4\\.minecraft\\versions\\1.7.10\\1.7.10-natives\" -Dfml.ignoreInvalidMinecraftCertificates=true -Dfml.ignorePatchDiscrepancies=true -cp \"F:\\game\\枫叶红笺服务器 V1.0",
+			"D:\\Java8\\bin\\javaw.exe -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -XX:+UseG1GC-XX: -UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow -Xmn128m -Xmm512m \"-Djava.library.path=F:\\game\\枫叶红笺服务器 V1.0.4\\.minecraft\\versions\\1.7.10\\1.7.10-natives\" -Dfml.ignoreInvalidMinecraftCertificates=true -Dfml.ignorePatchDiscrepancies=true -cp \"F:\\game\\枫叶红笺服务器 V1.0.4\\.minecraft\\libraries\\com\\mojang\\netty\\1.6\\netty-1.6.jar;F:\\game\\枫叶红笺服务器 V1.0.4\\.minecraft\\libraries\\com\\mojang\\realms\\1.3.5\\realm",
+			"D:\\Java8\\bin\\javaw.exe -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -XX:+UseG1GC-XX: -UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow -Xmn128m -Xmm512m \"-Djava.library.path=F:\\game\\枫叶红笺服务器 V1.0.4\\.minecraft\\versions\\1.7.10\\1.7.10-natives\" -Dfml.ignoreInvalidMinecraftCertificates=true -Dfml.ignorePatchDiscrepancies=true -cp \"F:\\game\\枫叶红笺服务器 V1.0.4\\.minecraft\\libraries\\com\\mojang\\netty\\1.6\\netty-1.6.jar;F:\\game\\枫叶红笺服务器 V1.0.4\\.minecraft\\libraries\\com\\mojang\\realms\\1.3.5\\realms-1.3.5.jar;F:\\game\\枫叶红笺服务器 V1.0.4\\.minecraft\\libraries\\org\\apache\\commons\\commons-compress",
+			"D:\\Java8\\bin\\javaw.exe -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -XX:+UseG1GC-XX: -UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow -Xmn128m -Xmm512m \"-Djava.library.path=F:\\game\\枫叶红笺服务器 V1.0.4\\.minecraft\\versions\\1.7.10\\1.7.10-natives\" -Dfml.ignoreInvalidMinecraftCertificates=true -Dfml.ignorePatchDiscrepancies=true -cp \"F:\\game\\枫叶红笺服务器 V1.0.4\\.minecraft\\libraries\\com\\mojang\\netty\\1.6\\netty-1.6.jar;F:\\game\\枫叶红笺服务器 V1.0.4\\.minecraft\\libraries\\com\\mojang\\realms\\1.3.5\\realms-1.3.5.jar;F:\\game\\枫叶红笺服务器 V1.0.4\\.minecraft\\libraries\\org\\apache\\commons\\commons-compress\\1.8.1\\commons-compress-1.8.1.jar;F:\\game\\枫叶红笺服务器 V1.0.4\\.minecraft\\libraries\\org\\apache\\httpcomponents\\httpclient\\4.3.3\\httpclient-4.3.3.jar;F:\\game\\枫叶红笺服务器 V1.0.4\\.minecraft\\libraries\\commons-logging\\commons-logging\\1.1.3\\commons-logging-1.1.3.jar;F:\\game\\枫叶红笺服务器 V1.0.4\\.minecraft\\libraries\\org\\apache\\httpcomponents\\httpcore\\4.3.2\\httpcore-4.3.2.jar;F:\\game\\枫叶红笺服务器 V1.0.4\\.minecraft\\libraries\\java3d\\vecmath\\1.3.1\\vecmath-1.3.1.jar;F:\\game\\枫叶红笺服务器 V1.0.4\\.minecraft\\libraries\\net\\sf\\trove4j\\trove4j\\3.0.3\\trove4j-3.0.3.jar;F:\\game\\枫叶红笺服务器 V1.0.4\\.minecraft\\libraries\\com\\ibm\\icu\\icu4j-core-mojang\\51.2\\icu4j-core-mojang-51.2.jar;F:\\game\\枫叶红笺服务器 V1.0.4\\.minecraft\\libraries\\net\\sf\\jopt-simple\\jopt-simple\\4.5\\jopt-simple-4.5.jar;F:\\game\\枫叶红笺服务器 V1.0.4\\.minecraft\\libraries\\com\\paulscode\\codecjorbis\\20101023\\codecjorbis-20101023.jar;F:\\game\\枫叶红笺服务器 V1.0.4\\.minecraft\\libraries\\com\\paulscode\\codecwav\\20101023\\codecwav-20101023.jar;F:\\game\\枫叶红笺服务器 V1.0.4\\.minecraft\\libraries\\com\\paulscode\\libraryjavasound\\20101123\\libraryjavasound-20101123.jar;F:\\game\\枫叶红笺服务器 V1.0.4\\.minecraft\\libraries\\com\\paulscode\\librarylwjglopenal\\20100824\\librarylwjglopenal-20100824.jar;F:\\game\\枫叶红笺服务器 V1.0.4\\.minecraft\\libraries\\com\\paulscode\\soundsystem\\20120107\\soundsystem-20120107.jar;F:\\game\\枫叶红笺服务器 V1.0.4\\.minecraft\\libraries\\io\\netty\\netty-all\\4.0.10.Final\\netty-all-4.0.10.Final.jar;F:\\game\\枫叶红笺服务器 V1.0.4\\.minecraft\\libraries\\com\\google\\guava\\guava\\15.0\\guava-15.0.jar;F:\\game\\枫叶红笺服务器 V1.0.4\\.minecraft\\libraries\\org\\apache\\commons\\commons-lang3\\3.1\\commons-lang3-3.1.jar;F:\\game\\枫叶红笺服务器 V1.0.4\\.minecraft\\libraries\\commons-io\\commons-io\\2.4\\commons-io-2.4.jar;F:\\game\\枫叶红笺服务器 V1.0.4\\.minecraft\\libraries\\commons-codec\\commons-codec\\1.9\\commons-codec-1.9.jar;F:\\game\\枫叶红笺服务器 V1.0.4\\.minecraft\\libraries\\net\\java\\jinput\\jinput\\2.0.5\\jinput-2.0.5.jar;F:\\game\\枫叶红笺服务器 V1.0.4\\.minecraft\\libraries\\net\\java\\jutils\\jutils\\1.0.0\\jutils-1.0.0.jar;F:\\game\\枫叶红笺服务器 V1.0.4\\.minecraft\\libraries\\com\\google\\code\\gson\\gson\\2.2.4\\gson-2.2.4.jar;F:\\game\\枫叶红笺服务器 V1.0.4\\.minecraft\\libraries\\com\\mojang\\authlib\\1.5.21\\authlib-1.5.21.jar;F:\\game\\枫叶红笺服务器 V1.0.4\\.minecraft\\libraries\\org\\apache\\logging\\log4j\\log4j-api\\2.0-beta9\\log4j-api-2.0-beta9.jar;F:\\game\\枫叶红笺服务器 V1.0.4\\.minecraft\\libraries\\org\\apache\\logging\\log4j\\log4j-core\\2.0-beta9\\log4j-core-2.0-beta9.jar;F:\\game\\枫叶红笺服务器 V1.0.4\\.minecraft\\libraries\\org\\lwjgl\\lwjgl\\lwjgl\\2.9.1\\lwjgl-2.9.1.jar;F:\\game\\枫叶红笺服务器 V1.0.4\\.minecraft\\libraries\\org\\lwjgl\\lwjgl\\lwjgl_util\\2.9.1\\lwjgl_util-2.9.1.jar;F:\\game\\枫叶红笺服务器 V1.0.4\\.minecraft\\libraries\\tv\\twitch\\twitch\\5.16\\twitch-5.16.jar;F:\\game\\枫叶红笺服务器 V1.0.4\\.minecraft\\versions\\1.7.10\\1.7.10.jar\"",
+			"D:\\Java8\\bin\\javaw.exe -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -XX:+UseG1GC-XX: -UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow -Xmn128m -Xmm512m \"-Djava.library.path=F:\\game\\枫叶红笺服务器 V1.0.4\\.minecraft\\versions\\1.7.10\\1.7.10-natives\" -Dfml.ignoreInvalidMinecraftCertificates=true -Dfml.ignorePatchDiscrepancies=true -cp \"F:\\game\\枫叶红笺服务器 V1.0.4\\.minecraft\\libraries\\com\\mojang\\netty\\1.6\\netty-1.6.jar;F:\\game\\枫叶红笺服务器 V1.0.4\\.minecraft\\libraries\\com\\mojang\\realms\\1.3.5\\realms-1.3.5.jar;F:\\game\\枫叶红笺服务器 V1.0.4\\.minecraft\\libraries\\org\\apache\\commons\\commons-compress\\1.8.1\\commons-compress-1.8.1.jar;F:\\game\\枫叶红笺服务器 V1.0.4\\.minecraft\\libraries\\org\\apache\\httpcomponents\\httpclient\\4.3.3\\httpclient-4.3.3.jar;F:\\game\\枫叶红笺服务器 V1.0.4\\.minecraft\\libraries\\commons-logging\\commons-logging\\1.1.3\\commons-logging-1.1.3.jar;F:\\game\\枫叶红笺服务器 V1.0.4\\.minecraft\\libraries\\org\\apache\\httpcomponents\\httpcore\\4.3.2\\httpcore-4.3.2.jar;F:\\game\\枫叶红笺服务器 V1.0.4\\.minecraft\\libraries\\java3d\\vecmath\\1.3.1\\vecmath-1.3.1.jar;F:\\game\\枫叶红笺服务器 V1.0.4\\.minecraft\\libraries\\net\\sf\\trove4j\\trove4j\\3.0.3\\trove4j-3.0.3.jar;F:\\game\\枫叶红笺服务器 V1.0.4\\.minecraft\\libraries\\com\\ibm\\icu\\icu4j-core-mojang\\51.2\\icu4j-core-mojang-51.2.jar;F:\\game\\枫叶红笺服务器 V1.0.4\\.minecraft\\libraries\\net\\sf\\jopt-simple\\jopt-simple\\4.5\\jopt-simple-4.5.jar;F:\\game\\枫叶红笺服务器 V1.0.4\\.minecraft\\libraries\\com\\paulscode\\codecjorbis\\20101023\\codecjorbis-20101023.jar;F:\\game\\枫叶红笺服务器 V1.0.4\\.minecraft\\libraries\\com\\paulscode\\codecwav\\20101023\\codecwav-20101023.jar;F:\\game\\枫叶红笺服务器 V1.0.4\\.minecraft\\libraries\\com\\paulscode\\libraryjavasound\\20101123\\libraryjavasound-20101123.jar;F:\\game\\枫叶红笺服务器 V1.0.4\\.minecraft\\libraries\\com\\paulscode\\librarylwjglopenal\\20100824\\librarylwjglopenal-20100824.jar;F:\\game\\枫叶红笺服务器 V1.0.4\\.minecraft\\libraries\\com\\paulscode\\soundsystem\\20120107\\soundsystem-20120107.jar;F:\\game\\枫叶红笺服务器 V1.0.4\\.minecraft\\libraries\\io\\netty\\netty-all\\4.0.10.Final\\netty-all-4.0.10.Final.jar;F:\\game\\枫叶红笺服务器 V1.0.4\\.minecraft\\libraries\\com\\google\\guava\\guava\\15.0\\guava-15.0.jar;F:\\game\\枫叶红笺服务器 V1.0.4\\.minecraft\\libraries\\org\\apache\\commons\\commons-lang3\\3.1\\commons-lang3-3.1.jar;F:\\game\\枫叶红笺服务器 V1.0.4\\.minecraft\\libraries\\commons-io\\commons-io\\2.4\\commons-io-2.4.jar;F:\\game\\枫叶红笺服务器 V1.0.4\\.minecraft\\libraries\\commons-codec\\commons-codec\\1.9\\commons-codec-1.9.jar;F:\\game\\枫叶红笺服务器 V1.0.4\\.minecraft\\libraries\\net\\java\\jinput\\jinput\\2.0.5\\jinput-2.0.5.jar;F:\\game\\枫叶红笺服务器 V1.0.4\\.minecraft\\libraries\\net\\java\\jutils\\jutils\\1.0.0\\jutils-1.0.0.jar;F:\\game\\枫叶红笺服务器 V1.0.4\\.minecraft\\libraries\\com\\google\\code\\gson\\gson\\2.2.4\\gson-2.2.4.jar;F:\\game\\枫叶红笺服务器 V1.0.4\\.minecraft\\libraries\\com\\mojang\\authlib\\1.5.21\\authlib-1.5.21.jar;F:\\game\\枫叶红笺服务器 V1.0.4\\.minecraft\\libraries\\org\\apache\\logging\\log4j\\log4j-api\\2.0-beta9\\log4j-api-2.0-beta9.jar;F:\\game\\枫叶红笺服务器 V1.0.4\\.minecraft\\libraries\\org\\apache\\logging\\log4j\\log4j-core\\2.0-beta9\\log4j-core-2.0-beta9.jar;F:\\game\\枫叶红笺服务器 V1.0.4\\.minecraft\\libraries\\org\\lwjgl\\lwjgl\\lwjgl\\2.9.1\\lwjgl-2.9.1.jar;F:\\game\\枫叶红笺服务器 V1.0.4\\.minecraft\\libraries\\org\\lwjgl\\lwjgl\\lwjgl_util\\2.9.1\\lwjgl_util-2.9.1.jar;F:\\game\\枫叶红笺服务器 V1.0.4\\.minecraft\\libraries\\tv\\twitch\\twitch\\5.16\\twitch-5.16.jar;F:\\game\\枫叶红笺服务器 V1.0.4\\.minecraft\\versions\\1.7.10\\1.7.10.jar\" net.minecraft.client.main.Main",
+			"D:\\Java8\\bin\\javaw.exe -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -XX:+UseG1GC-XX: -UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow -Xmn128m -Xmm512m \"-Djava.library.path=F:\\game\\枫叶红笺服务器 V1.0.4\\.minecraft\\versions\\1.7.10\\1.7.10-natives\" -Dfml.ignoreInvalidMinecraftCertificates=true -Dfml.ignorePatchDiscrepancies=true -cp \"F:\\game\\枫叶红笺服务器 V1.0.4\\.minecraft\\libraries\\com\\mojang\\netty\\1.6\\netty-1.6.jar;F:\\game\\枫叶红笺服务器 V1.0.4\\.minecraft\\libraries\\com\\mojang\\realms\\1.3.5\\realms-1.3.5.jar;F:\\game\\枫叶红笺服务器 V1.0.4\\.minecraft\\libraries\\org\\apache\\commons\\commons-compress\\1.8.1\\commons-compress-1.8.1.jar;F:\\game\\枫叶红笺服务器 V1.0.4\\.minecraft\\libraries\\org\\apache\\httpcomponents\\httpclient\\4.3.3\\httpclient-4.3.3.jar;F:\\game\\枫叶红笺服务器 V1.0.4\\.minecraft\\libraries\\commons-logging\\commons-logging\\1.1.3\\commons-logging-1.1.3.jar;F:\\game\\枫叶红笺服务器 V1.0.4\\.minecraft\\libraries\\org\\apache\\httpcomponents\\httpcore\\4.3.2\\httpcore-4.3.2.jar;F:\\game\\枫叶红笺服务器 V1.0.4\\.minecraft\\libraries\\java3d\\vecmath\\1.3.1\\vecmath-1.3.1.jar;F:\\game\\枫叶红笺服务器 V1.0.4\\.minecraft\\libraries\\net\\sf\\trove4j\\trove4j\\3.0.3\\trove4j-3.0.3.jar;F:\\game\\枫叶红笺服务器 V1.0.4\\.minecraft\\libraries\\com\\ibm\\icu\\icu4j-core-mojang\\51.2\\icu4j-core-mojang-51.2.jar;F:\\game\\枫叶红笺服务器 V1.0.4\\.minecraft\\libraries\\net\\sf\\jopt-simple\\jopt-simple\\4.5\\jopt-simple-4.5.jar;F:\\game\\枫叶红笺服务器 V1.0.4\\.minecraft\\libraries\\com\\paulscode\\codecjorbis\\20101023\\codecjorbis-20101023.jar;F:\\game\\枫叶红笺服务器 V1.0.4\\.minecraft\\libraries\\com\\paulscode\\codecwav\\20101023\\codecwav-20101023.jar;F:\\game\\枫叶红笺服务器 V1.0.4\\.minecraft\\libraries\\com\\paulscode\\libraryjavasound\\20101123\\libraryjavasound-20101123.jar;F:\\game\\枫叶红笺服务器 V1.0.4\\.minecraft\\libraries\\com\\paulscode\\librarylwjglopenal\\20100824\\librarylwjglopenal-20100824.jar;F:\\game\\枫叶红笺服务器 V1.0.4\\.minecraft\\libraries\\com\\paulscode\\soundsystem\\20120107\\soundsystem-20120107.jar;F:\\game\\枫叶红笺服务器 V1.0.4\\.minecraft\\libraries\\io\\netty\\netty-all\\4.0.10.Final\\netty-all-4.0.10.Final.jar;F:\\game\\枫叶红笺服务器 V1.0.4\\.minecraft\\libraries\\com\\google\\guava\\guava\\15.0\\guava-15.0.jar;F:\\game\\枫叶红笺服务器 V1.0.4\\.minecraft\\libraries\\org\\apache\\commons\\commons-lang3\\3.1\\commons-lang3-3.1.jar;F:\\game\\枫叶红笺服务器 V1.0.4\\.minecraft\\libraries\\commons-io\\commons-io\\2.4\\commons-io-2.4.jar;F:\\game\\枫叶红笺服务器 V1.0.4\\.minecraft\\libraries\\commons-codec\\commons-codec\\1.9\\commons-codec-1.9.jar;F:\\game\\枫叶红笺服务器 V1.0.4\\.minecraft\\libraries\\net\\java\\jinput\\jinput\\2.0.5\\jinput-2.0.5.jar;F:\\game\\枫叶红笺服务器 V1.0.4\\.minecraft\\libraries\\net\\java\\jutils\\jutils\\1.0.0\\jutils-1.0.0.jar;F:\\game\\枫叶红笺服务器 V1.0.4\\.minecraft\\libraries\\com\\google\\code\\gson\\gson\\2.2.4\\gson-2.2.4.jar;F:\\game\\枫叶红笺服务器 V1.0.4\\.minecraft\\libraries\\com\\mojang\\authlib\\1.5.21\\authlib-1.5.21.jar;F:\\game\\枫叶红笺服务器 V1.0.4\\.minecraft\\libraries\\org\\apache\\logging\\log4j\\log4j-api\\2.0-beta9\\log4j-api-2.0-beta9.jar;F:\\game\\枫叶红笺服务器 V1.0.4\\.minecraft\\libraries\\org\\apache\\logging\\log4j\\log4j-core\\2.0-beta9\\log4j-core-2.0-beta9.jar;F:\\game\\枫叶红笺服务器 V1.0.4\\.minecraft\\libraries\\org\\lwjgl\\lwjgl\\lwjgl\\2.9.1\\lwjgl-2.9.1.jar;F:\\game\\枫叶红笺服务器 V1.0.4\\.minecraft\\libraries\\org\\lwjgl\\lwjgl\\lwjgl_util\\2.9.1\\lwjgl_util-2.9.1.jar;F:\\game\\枫叶红笺服务器 V1.0.4\\.minecraft\\libraries\\tv\\twitch\\twitch\\5.16\\twitch-5.16.jar;F:\\game\\枫叶红笺服务器 V1.0.4\\.minecraft\\versions\\1.7.10\\1.7.10.jar\" net.minecraft.client.main.Main --username test --version \"HMCL 2.7.6.25\" --gameDir \"F:\\game\\枫叶红笺服务器 V1.0.4\\.minecraft\" --assetsDir \"F:\\game\\枫叶红笺服务器 V1.0.4\\.minecraft\\assets\"",
+			"jar",
+			" ",
+			"libs_paths",
+			" ",
+			"net.",
+			"net",
+			" ",
+			"\"name\"",
+			"name",
+			"natives",
+			"platform",
+			"lun.",
+			"name",
+			"title_bar_la",
+			"title_bar_table",
+			"bar",
+			" sidebar_label"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"laun"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/F/game/Urcraft/training.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 237,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								86,
+								86
+							]
+						],
+						"settings":
+						{
+							"is_init_dirty_state": false,
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "MainUI.pyw",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2914,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2794,
+								2778
+							]
+						],
+						"settings":
+						{
+							"is_init_dirty_state": false,
+							"origin_encoding": "UTF-8",
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/E/Myblog/_config.yml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2036,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1854,
+								1854
+							]
+						],
+						"settings":
+						{
+							"is_init_dirty_state": false,
+							"origin_encoding": "UTF-8",
+							"syntax": "Packages/YAML/YAML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1230.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 180.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Luncher.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 263.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
