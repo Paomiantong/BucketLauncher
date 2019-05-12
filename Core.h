@@ -1,8 +1,20 @@
-#ifndef CORE_H
-#define CORE_H
+//ifndef CORE_H
+//define CORE_H
+//include <stdlib.h>  
+//include <stdio.h> 
+string GetBasePath(void)//获取工作路径
+{  
+    char szFilePath[MAX_PATH + 1]={0};  
+    GetModuleFileNameA(NULL, szFilePath, MAX_PATH);  
+    (strrchr(szFilePath, '\\'))[0] = 0;
+    string path = szFilePath;  
+  
+    return path;  
+}  
+
 string read(string path)
 {
-	ifstream F("1.11.json");
+	ifstream F(path.c_str());
 	string str,tmp;
 	while(getline(F,tmp))
 	{
@@ -44,4 +56,35 @@ string GetSystemBits()
     }
     return "32";
 }
-#endif
+class Launcher
+{
+public:
+	string id;
+	string pbase;//当前路径
+	string pjava;//java路径
+	string base_launtype;//启动类型
+	string base_launargs;//启动参数
+	string base_username;//用户名
+	int max_mem;//最大内存
+	int min_mem;//最小内存
+	int usertype=0;
+	string mainclass;//启动主类
+	string asindex;//资源引索
+	string gmdir;
+	string asdir;
+	string paths;//库路径
+	string usertype_info[2];//用户类型args_usertype_info[0]为盗版登录args_usertype_info[1]为正版登录
+	Launcher(void)
+	{
+		max_mem=512;
+		min_mem=128;
+		usertype_info[0]="Legacy";
+		usertype_info[1]="mojang";
+		mainclass="";
+		asindex="";
+		gmdir="\\.minecraft";
+		asdir="\\.minecraft\\assets";
+		paths="\"";
+	}
+};
+//endif
