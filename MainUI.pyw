@@ -5,10 +5,9 @@ from PyQt5 import QtCore, QtGui, QtWidgets
 import sys
 from training import test
 class btn(QPushButton):
-    def __init__(self,Widget,text=""):
+    def __init__(self,Widget,text="",color="#fff"):
         super().__init__(Widget)
         self.setStyleSheet("QPushButton {\n"
-"    color: #fff;\n"
 "    background:rgba(0,0,0,0);\n"
 "    border-color: rgba(0,0,0,0);\n"
 "    font-size: 1.6rem;\n"
@@ -20,7 +19,7 @@ class btn(QPushButton):
 "}")
         self.setText(text)
 
-class Example(QWidget):
+class MainW(QWidget):
     _startPos = None
     _endPos = None
     _isTracking = False
@@ -30,16 +29,16 @@ class Example(QWidget):
         self._initUI()
 
     def _initUI(self):
-        self.setFixedSize(QSize(800, 431))
+        self.setFixedSize(QSize(800, 460))
         self.setWindowFlags(Qt.FramelessWindowHint)  # 无边框
         self.bgm = QLabel(self)
-        self.bgm.setGeometry(QtCore.QRect(0, 0, 800, 431))
+        self.bgm.setGeometry(QtCore.QRect(0, 0, 800, 460))
         self.bgm.setStyleSheet("color:#FFF")
         self.bgm.setPixmap(QPixmap("img/bg2.jpg").scaled(self.bgm.width(),self.bgm.height()))
         self.top_bar = QLabel(self)
         self.top_bar.setGeometry(QtCore.QRect(0, 0, 800, 35))
-        self.top_bar.setText("<b>Bucket Launcher</b>")
-        self.top_bar.setStyleSheet("background-color:rgba(121,165,229,.7);color:#FFF;font-size:13px;font-family:Consolas")
+        self.top_bar.setText("Bucket Launcher")
+        self.top_bar.setStyleSheet("background-color:rgba(255,255,255,1);color:rgb(121,165,229);font-size:14px;font-family:Consolas")
         self.top_bar.setAlignment(Qt.AlignCenter)
         self.icon = QLabel(self)
         self.icon.setGeometry(QtCore.QRect(0, 0, 35, 35))
@@ -57,7 +56,6 @@ class Example(QWidget):
 "}\n"
 "QPushButton:hover {\n"
 "    background-color: #4aaa4a;\n"
-"    text-decoration: none;\n"
 "}")
         self.closebtn.clicked.connect(QCoreApplication.instance().quit)
 
@@ -80,6 +78,6 @@ class Example(QWidget):
 
 if __name__ == '__main__':
     app = QApplication(sys.argv)
-    ex = Example()
+    ex = MainW()
     ex.show()
     sys.exit(app.exec_())

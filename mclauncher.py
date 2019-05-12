@@ -50,7 +50,7 @@ class laun:
 	pass
 
 	def dealcmd(self):
-		self.base_cmd=self.args_javapath+" -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -XX:+UseG1GC -XX:-UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow"+" -Xmn"+str(self.args_mnm)+"m"+" -Xmx"+str(self.args_mxm)+"m \"-Djava.library.path="+self.base_path+self.args_gmdir+"\\versions\\"+self.base_id+"\\"+self.base_id+"-natives\" -Dfml.ignoreInvalidMinecraftCertificates=true -Dfml.ignorePatchDiscrepancies=true -cp "+self.args_paths+" "+self.args_mainclass+" "+self.base_launargs
+		self.base_cmd="\""+self.args_javapath+"\" -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -XX:+UseG1GC -XX:-UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow"+" -Xmn"+str(self.args_mnm)+"m"+" -Xmx"+str(self.args_mxm)+"m \"-Djava.library.path="+self.base_path+self.args_gmdir+"\\versions\\"+self.base_id+"\\"+self.base_id+"-natives\" -Dfml.ignoreInvalidMinecraftCertificates=true -Dfml.ignorePatchDiscrepancies=true -cp "+self.args_paths+" "+self.args_mainclass+" "+self.base_launargs
 		pass
 
 	def start(self):

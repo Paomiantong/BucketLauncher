@@ -20,7 +20,7 @@ class btn(QPushButton):
 "}")
         self.setText(text)
 
-class Example(QWidget):
+class MainW(QWidget):
     _startPos = None
     _endPos = None
     _isTracking = False
@@ -65,7 +65,9 @@ class Example(QWidget):
         self.starbtn.clicked.connect(test)
 
     def mouseMoveEvent(self, e: QMouseEvent):
-    	if e.buttons () == QtCore.Qt.LeftButton:
+    	if self._startPos == None:
+    		self._startPos = QPoint(e.x(), e.y())
+    	if e.buttons () == Qt.LeftButton:
 	        self._endPos = e.pos() - self._startPos
 	        self.move(self.pos() + self._endPos)
 	        self.bgm.setText(str(self.x())+","+str(self.y()))
@@ -84,6 +86,6 @@ import rc_MainUI
 
 if __name__ == '__main__':
     app = QApplication(sys.argv)
-    ex = Example()
+    ex = MainW()
     ex.show()
     sys.exit(app.exec_())
