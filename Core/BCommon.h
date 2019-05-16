@@ -1,7 +1,16 @@
-//ifndef CORE_H
-//define CORE_H
-//include <stdlib.h>  
-//include <stdio.h> 
+#ifndef BCOMMON_H
+#define BCOMMON_H
+#include <sstream>
+#include <boost/uuid/uuid.hpp>
+#include <boost/uuid/uuid_generators.hpp>
+#include <boost/uuid/uuid_io.hpp>
+#include <fstream>
+#include <string>
+#include <vector>
+#include <windows.h>
+#include <tchar.h>
+#include <conio.h>
+namespace uuids = ::boost::uuids;
 string GetBasePath(void)//获取工作路径
 {  
     char szFilePath[MAX_PATH + 1]={0};  
@@ -10,8 +19,31 @@ string GetBasePath(void)//获取工作路径
     string path = szFilePath;  
   
     return path;  
-}  
-
+}
+bool _Replace(string &str1,string str2,string str3)
+{
+	if(str1.find(str2)!=string::npos)
+	{
+		str1.replace(str1.find(str2),str2.length(),str3);
+		return 1;
+	}
+	return 0;
+}
+bool Replace(string &str1,string str2,string str3,bool loop=false)
+{
+	if(str1.find(str2)!=string::npos)
+	{
+		if (loop)
+		{
+			while(_Replace(str1,str2,str3));
+		}else
+		{
+			_Replace(str1,str2,str3);
+		}
+		return 1;
+	}
+	return 0;
+}
 string read(string path)
 {
 	ifstream F(path.c_str());
@@ -23,7 +55,22 @@ string read(string path)
 	F.close();
 	return str;
 }
-
+int s2i(string str)
+{
+	stringstream ss;
+	ss<<str;
+	int num;
+	ss>>num;
+	return num;
+}
+string i2s(int num)
+{
+	stringstream ss;
+	ss<<num;
+	string str;
+	ss>>str;
+	return str;
+}
 vector<string> split(const string& str, const string& delim) {  
 	vector<string> res;  
 	if("" == str) return res;  
@@ -56,35 +103,15 @@ string GetSystemBits()
     }
     return "32";
 }
-class Launcher
+namespace uuids = ::boost::uuids;
+string UUIDgenerator(string name)
 {
-public:
-	string id;
-	string pbase;//当前路径
-	string pjava;//java路径
-	string base_launtype;//启动类型
-	string base_launargs;//启动参数
-	string base_username;//用户名
-	int max_mem;//最大内存
-	int min_mem;//最小内存
-	int usertype=0;
-	string mainclass;//启动主类
-	string asindex;//资源引索
-	string gmdir;
-	string asdir;
-	string paths;//库路径
-	string usertype_info[2];//用户类型args_usertype_info[0]为盗版登录args_usertype_info[1]为正版登录
-	Launcher(void)
-	{
-		max_mem=512;
-		min_mem=128;
-		usertype_info[0]="Legacy";
-		usertype_info[1]="mojang";
-		mainclass="";
-		asindex="";
-		gmdir="\\.minecraft";
-		asdir="\\.minecraft\\assets";
-		paths="\"";
-	}
-};
-//endif
+	uuids::name_generator uuid_v5(uuids::string_generator()("980ed8f2-ca8b-43c0-969f-93934c94dcb3"));
+	string uuid;
+    stringstream x;
+    x<<uuid_v5(name);
+    x>>uuid;
+    Replace(uuid,"-","",true);
+	return uuid;
+}
+#endif
