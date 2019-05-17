@@ -26,6 +26,8 @@ public:
 	string height;
 	string width;
 	string vtype;
+	string fatherid;
+	bool inner;
 	Bargs args;
 	Launcher(void)
 	{
@@ -43,6 +45,7 @@ public:
 		height="480";
 		width="854";
 		jvmargs="";
+		inner=false;
 	}
 	void DealminecraftArguments()
 	{
@@ -61,15 +64,23 @@ public:
 	{
 		args.newarg("java","\""+pjava+"\"",2);
 		args.newarg("???","-XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -XX:+UseG1GC -XX:-UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow",2);
-		args.newarg("Djava.library.path","-Djava.library.path="+gmdir+"\\versions\\"+id+"\\"+id+"-natives",2);
 		args.newarg("Xmn","-Xmn"+min_mem+"m",2);
 		args.newarg("Xmx","-Xmx"+max_mem+"m",2);
+		if(!inner)
+			args.newarg("Djava.library.path","-Djava.library.path=\""+pbase+gmdir+"\\versions\\"+id+"\\"+id+"-natives\"",2);
+		else
+			args.newarg("Djava.library.path","-Djava.library.path=\""+pbase+gmdir+"\\versions\\"+fatherid+"\\"+fatherid+"-natives\"",2);
 		args.newarg("jvm",jvmargs,2);
 		args.newarg("cp",plibs,1);
 		args.newarg("mainClass",mainclass,2);
 		args.newarg("mc",mcargs,2);
 		args.newarg("more"," --height "+height+" --width "+width,2);
 		return args.GetAllargs();
+	}
+	void Setinner(string fid)
+	{
+		fatherid=fid;
+		inner=1;
 	}
 };
 #endif

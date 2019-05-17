@@ -1,14 +1,13 @@
 #include <iostream>
 #include <fstream>
-#include "Loader.cpp"
-#include "BOptions.h"
+#include "C:\Users\Administrator\Desktop\DuiDemo\FirstDuilibDemo\FirstDuilibDemo\Core\Loader.cpp"
+#include "C:\Users\Administrator\Desktop\DuiDemo\FirstDuilibDemo\FirstDuilibDemo\Core\BOptions.h"
 using namespace std;
 int main(int argc, char const *argv[])
 {
 	Launcher Lau;
 	BOptions Option(&Lau);
-	ofstream o("c.txt");
-	string a="1";
+	ofstream o("test.cmd");
 	Option.opts["pjava"]="C:\\Program Files\\Java\\jre1.8.0_201\\bin\\java.exe";
 	Option.opts["max_mem"]="512";
 	Option.opts["min_mem"]="128";
@@ -18,20 +17,10 @@ int main(int argc, char const *argv[])
 	Lau.uuid="f6122c9461e24d12af2c637819ed39b7";
 	Lau.username="lala";
 	Lau.uuid=UUIDgenerator(Lau.username);
-	Load(Lau);
+	Load(Lau,"F:\\game\\M inecraft\\.minecraft\\versions\\1.12.2-forge1.12.2-14.23.5.2816\\1.12.2-forge1.12.2-14.23.5.2816.json");
 	Option.LoadOptions2Lau();
-	cout<<Lau.uuid;
+	o<<Lau.BuildCommand();
 	o.close();
-	//f6122c9461e24d12af2c637819ed39b7
-	// "${auth_player_name}"
-	// "${version_name}"
-	// "${game_directory}"
-	// "${assets_root}"
-	// "${assets_index_name}"
-	// "${auth_access_token}"
-	// "${user_type}"
-	// "${version_type}"
-	// JrePath+" -Xmx"+MaxMem+" -Dfml.ignoreInvalidMinecraftCertificates=true -Dfml.ignorePatchDiscrepancies=true -Djava.library.path="+natives+" -cp "+libjars+" "+new JSONObject(ReadAllTextFromFile(jsonPath)).get("mainClass")+" "+minecraftArguments);
 	//HKEY_LOCAL_MACHINE\SOFTWARE\JavaSoft\Java Runtime Environment\<第一个版本名称，如1.8.0_144>
 	return 0;
 }
